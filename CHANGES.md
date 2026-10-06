@@ -43,3 +43,8 @@ repository's git history (all commits up to and including `db85869`).
   (also bundled as `Archive.zip`).
 - `squeeki-kleen Video FC.csv`: bill of materials.
 - `bom/ibom.html`: interactive BOM / assembly guide.
+
+## Documentation
+- `README.md`: added a note that this is a modified fork, a "Buy assembled
+  boards" section, and updated MMCX references in the install steps and PCB
+  specifications to match the solder-wire pads.

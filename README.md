@@ -7,6 +7,16 @@ for the Famicom/NES
 
 <img src="docs/squeeki-kleen Video FC.png" style="max-width:80%;" />
 
+## Buy assembled boards
+
+Assembled boards of this Eevitronics version are available from the
+[Eevitronics Store](https://www.eevitronics.jp). Full design files, including
+Gerbers and BOM, remain freely available in this repository under the TAPR
+Open Hardware License.
+
+This version is not affiliated with or supported by Persune. For support with
+Eevitronics boards, please contact Eevitronics.
+
 ## About
 
 I made a compact daughterboard composite video output based on the
@@ -17,7 +27,7 @@ This is designed to make AV modding RF-only consoles such as the RF Famicom and 
 
 TODO: image demonstrations.
 
-1. If your board does not have tented vias, cover the area underneath the PPU with insulating tape. Be sure to also cover underneath the MMCX connector footprint to avoid shorts.
+1. If your board does not have tented vias, cover the area underneath the PPU with insulating tape. Be sure to also cover underneath the video/ground wire pads to avoid shorts.
 2. To reduce stray inductive connections, isolate pin 21 of the PPU by cutting any traces connecting to it as close to the through-hole pad as much as possible.
 3. If needed, add additional bypass capacitors in the empty C3 and C4 footprints.
 
@@ -27,7 +37,7 @@ Note that this project is optimized for JLCPCB manufacturing.
 
 - 2 layers
 - 50.80 x 17.78 mm
-- 0.8 mm thickness (or 1.60 mm if you plan to attach the MMCX connector)
+- 0.8 mm thickness
 - Any surface finish
 - Any soldermask/silkscreen color
 - Tented vias
