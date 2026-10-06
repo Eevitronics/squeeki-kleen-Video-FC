@@ -1,5 +1,7 @@
 # squeeki-kleen-Video-FC
 
+> **Note:** This is a modified version of [squeeki-kleen Video FC](https://github.com/Gumball2415/squeeki-kleen-Video-FC) by Persune, adapted by Eevitronics. The MMCX connector has been replaced with solder-wire pads. See [CHANGES.md](CHANGES.md) for the full list of modifications, which are licensed under the TAPR Open Hardware License.
+
 An open source hardware external composite video bypass preamplifier modboard
 for the Famicom/NES
 
@@ -34,7 +36,7 @@ Note that this project is optimized for JLCPCB manufacturing.
 
 ## License
 
-This is licensed under the [TAPR Open Hardware Licence](https://tapr.org/the-tapr-open-hardware-license/). Copyright Persune 2025.
+This is licensed under the [TAPR Open Hardware Licence](https://tapr.org/the-tapr-open-hardware-license/). Copyright Persune 2025. Modifications by Eevitronics 2026, see [CHANGES.md](CHANGES.md).
 
 ## Credits
 

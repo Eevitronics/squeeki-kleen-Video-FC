@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;", , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ";"";37;"";;;
+2;"C1";"CP_Elec_6.3x5.4";1;"220uF";;;
+3;"C2";"C_0805_2012Metric";1;"560pF";;;
+4;"C5";"CP_EIA-3216-18_Kemet-A";1;"10uF";;;
+5;"C6";"CP_Elec_6.3x4.5";1;"100uF";;;
+6;"GND";"SolderWire-0.25sqmm_1x02_P4.2mm_D0.65mm_OD1.7mm";1;"Conn_01x02";;;
+7;"Q1";"SOT-23";1;"MMBT3906";;;
+8;"R1";"R_0805_2012Metric";1;"300";;;
+9;"R2";"R_0805_2012Metric";1;"110";;;
+10;"REF**, REF**, REF**";"Fiducial_0.5mm_Mask1.5mm";3;"Fiducial_0.5mm_Mask1.5mm";;;
